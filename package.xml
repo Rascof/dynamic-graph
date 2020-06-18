@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="3">
-  <name>dynamic-graph</name>
+  <name>dynamic_graph</name>
   <version>4.1.3</version>
   <description>
     Dynamic graph library
